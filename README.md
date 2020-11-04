@@ -36,6 +36,9 @@
 
 
 <p align="center">
+  <img sec="https://github.com/brunosantos7/rocketshoes-react-native/blob/master/Profile-20201104T160549.gif" />
+  </p>
+<p align="center">
   <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563425600/readme_logos/rocketshoes-native_gsjofr.gif">
 </p>
 
